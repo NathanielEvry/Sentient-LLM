@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # the_waterfall.sh - A living wrapper for my openai spec api shell script, ai.sh
+# https://github.com/NathanielEvry/Sentient-LLM/blob/main/the_waterfall.sh
 # Authored by:
 #   - Nathaniel Evry - 2023-12-15 Revised: 2024-05-09
 #   - SentientLLM - 2024-05-09
